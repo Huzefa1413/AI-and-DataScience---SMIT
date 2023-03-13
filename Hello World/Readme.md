@@ -9,6 +9,8 @@ Search
 <ul>
 <li>anaconda prompt</li>
 <li>anaconda cmd will open up</li>
-<li>Write <u>python</u> there and press enter</li>
+<li>Write "python" there and press enter</li>
+<li>Run code below in the terminal</li>
 </ul>
 </ul>
+<p>print("Hello World")</p>
