@@ -45,3 +45,15 @@
 <li>Run that file</li>
 <li><img src="./Step4.PNG"></li>
 </ul>
+<br/>
+<h2>Step 5: Create file in JupyterLab<h2>
+<br/>
+<ul>
+<li>Open Anaconda and open JupyterLab</li>
+<li>Create a new file in JupyterLab</li>
+<li>Create a new file there called jupyterlabhelloworld.py</li>
+<li>Add code below in that file</li>
+<li>print("Hello World")</li>
+<li><img src="./Step5.PNG"></li>
+
+</ul>
