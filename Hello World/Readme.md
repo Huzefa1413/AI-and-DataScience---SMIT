@@ -8,6 +8,18 @@
 <li>anaconda cmd will open up</li>
 <li>Write "python" there and press enter</li>
 <li>Run code below in the terminal</li>
+<li>print("Hello World")</li>
+<li><img src="./Step1.PNG"></li>
 </ul>
-<p>print("Hello World")</p>
-<img src="./Step1.PNG">
+<br/>
+<h2>Step 2: Create Physical File and run that in anaconda<h2>
+<br/>
+<ul>
+<li>Go to specific directory where you want to create a file and write code. there</li>
+<li>That folder will open in vscode</li>
+<li>Create a new file there called helloworld.py</li>
+<li>Add code below in that file</li>
+<li>print("Hello World")</li>
+<li>Copy that file's path and run that in cmd</li>
+<li><img src="./Step2.PNG"></li>
+</ul>
