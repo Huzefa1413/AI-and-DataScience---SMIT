@@ -34,3 +34,14 @@
 <li>print("Hello World")</li>
 <li><img src="./Step3.PNG"></li>
 </ul>
+<br/>
+<h2>Step 4: Run Python Code is vscode<h2>
+<br/>
+<ul>
+<li>Open vsCode</li>
+<li>Create a new file</li>
+<li>Add code below in that file</li>
+<li>print("Hello World")</li>
+<li>Run that file</li>
+<li><img src="./Step4.PNG"></li>
+</ul>
