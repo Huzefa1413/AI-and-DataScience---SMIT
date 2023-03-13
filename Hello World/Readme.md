@@ -55,5 +55,15 @@
 <li>Add code below in that file</li>
 <li>print("Hello World")</li>
 <li><img src="./Step5.PNG"></li>
-
+</ul>
+<br/>
+<h2>Step 6: Create file in GoogleColab<h2>
+<br/>
+<ul>
+<li>Go to google and search google colab</li>
+<li>Open google colab website</li>
+<li>Create a new file there called googlecolabhelloworld.py</li>
+<li>Add code below in that file</li>
+<li>print("Hello World")</li>
+<li><img src="./Step6.PNG"></li>
 </ul>
