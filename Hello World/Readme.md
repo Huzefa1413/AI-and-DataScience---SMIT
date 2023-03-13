@@ -14,3 +14,4 @@ Search
 </ul>
 </ul>
 <p>print("Hello World")</p>
+<img src="./Step1.PNG">
