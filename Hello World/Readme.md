@@ -7,6 +7,8 @@
 Search
 </li>
 <ul>
-<li>anaconda</li>
+<li>anaconda prompt</li>
+<li>anaconda cmd will open up</li>
+<li>Write <b>python</b> there and press enter</li>
 </ul>
 </ul>
